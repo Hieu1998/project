@@ -1,0 +1,1 @@
+<a href="tel:5555555555"><img src="http://www.domain.com/files/phone-icon.jpg"></a>
